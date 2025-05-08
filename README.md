@@ -1,11 +1,11 @@
-# gomesmamedes
+ # gomesmamedes
  Olá, eu sou Thiago Gomes Mamedes
 
 🔧 Analista de Infraestrutura Sênior | Gestão de Projetos | Segurança | Liderança de Equipe | Windows Server | Backup
 
 💼 Resumo ProfissionalAdministrador de Infraestrutura com mais de 15 anos de experiência em tecnologia. Expertise em gestão de equipes, elaboração de relatórios de status de projetos e configuração de servidores. Experiência sólida em manutenção de servidores físicos e virtuais, redes corporativas e soluções de backup. Forte capacidade de liderança e foco em resultados, com experiência em ambientes corporativos de grande porte.
 
-🛠️ Habilidades Principais
+     🛠️ Habilidades Principais
 
 Infraestrutura: Windows Server, Active Directory, DNS, DHCP, Hyper-V, File Server
 
@@ -43,7 +43,7 @@ Analista de Suporte Pleno - PTC Group (jan 2022 - jul 2022)
 
 Migração para Office 365, gerenciamento de rede e servidores
 
-🚀 Principais Projetos
+     🚀 Principais Projetos
 
 Implementação de infraestrutura para novos escritórios
 
@@ -51,10 +51,11 @@ Migração para ambientes cloud e Office 365
 
 Automação de processos de backup e gerenciamento de usuários
 
-📫 Entre em Contato
+     📫 Entre em Contato
 
 LinkedIn: Thiago Mamedes
+https://www.linkedin.com/in/thiago-gomes-mamedes-27abaa19/
 
-E-mail: thiagomamedes@dominio.com
+E-mail: gomesmamedes@gmail.com
 
 ótimo vou testar agora
