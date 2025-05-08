@@ -1,4 +1,5 @@
-![Minha foto](https://github.com/thiagomamedes/minha-foto.jpg)
+<img src="URL_da_imagem" width="150" height="150" style="border-radius: 50%;" />
+
 
 # 👋 Olá, eu sou Thiago Gomes Mamedes
 
