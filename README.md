@@ -63,9 +63,6 @@ Profissional com mais de 15 anos de experiência em Tecnologia da Informação, 
 
 ---
 
-📊 **Estatísticas do GitHub**
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomamedes\&show_icons=true\&theme=radical)
-
 ---
 
 📫 **Entre em Contato**
