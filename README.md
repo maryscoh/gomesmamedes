@@ -1,4 +1,4 @@
-<img src="URL_da_imagem" width="150" height="150" style="border-radius: 50%;" />
+<img src="https://github.com/maryscoh/Imagens/blob/main/EU.png" width="150" height="150" style="border-radius: 50%;" />
 
 
 # 👋 Olá, eu sou Thiago Gomes Mamedes
