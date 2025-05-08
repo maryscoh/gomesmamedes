@@ -10,6 +10,6 @@ Sólida experiência em redes corporativas, com atuação em grandes empresas, r
 Palavras-chave: Coordenador de Infraestrutura, Coordenador de Projetos TI, Analista de Infraestrutura, Analista de Suporte, Analista de Projetos TI, Cloud, Microsoft.
 
 Especializações: 
-Brasil Mais TI: Office 365
-Udemy: Microsofit Azure
-Udemy: Amazon AWS para iniciantes
+Brasil Mais TI: Office 365.
+Udemy: Microsofit Azure.
+Udemy: Amazon AWS para iniciantes.
