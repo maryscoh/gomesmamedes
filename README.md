@@ -18,14 +18,14 @@ Udemy: Amazon AWS para iniciantes.
 
 Experiência
 
-Logo da empresa INTRANET Consultoria
+INTRANET Consultoria
 Analista de suporte sênior
 Analista de suporte sênior
 INTRANET Consultoria · Tempo integralINTRANET Consultoria · Tempo integral
 jul de 2024 - o momento · 11 mesesDe jul de 2024 até o momento · 11 meses
 São Paulo, Brasil · HíbridaSão Paulo, Brasil · Híbrida
 Atuando no monitoramento dos backups de vários clientes, sendo responsável por criar e restaurar os backups.
-(Veritas backup, Iperius backup, Veem Backup.
+(Veritas backup, Iperius backup, Veem Backup).
  
 Atendimento via Zendesk e suporte à usuários (Desktop e notebook)
 Suporte a usuários de VPN. 
