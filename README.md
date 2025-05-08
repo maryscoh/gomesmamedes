@@ -1,32 +1,60 @@
 # gomesmamedes
-Casado 42 Anos
+ Olá, eu sou Thiago Gomes Mamedes
 
-Carta de Apresentação.
-Experiências:
-Atuando como Administrador de Infraestrutura, com mais de 15 anos de experiência na área de tecnologia. Expertise em gestão de equipes de TI, elaborar relatórios com status dos projetos; definir requisitos técnicos e procedimentos para configuração e instalação de aplicativos, sistemas e servidores. Profissional capacitado para trabalhar em equipe, dinâmico, com iniciativa, facilidade de aprendizado e de bom relacionamento interpessoal, dedicado às funções, focado em resultados e retenção de talentos.
-Conhecimento em Manutenção de Notebooks e Servidores, Tanto Físicos como VM.Responsável por gerir o backup de vários clientes diferentes, usando ferramentas de backup diversas, emitindo relatórios diversos sobre os backups.
-Sou um profissional com experiência em Tecnologia da Informação, exercendo atividades de consultoria e suporte.
-Sólida experiência em redes corporativas, com atuação em grandes empresas, realizando implantação, migração e administração de ambientes. Facilidade de trabalho em equipe, boa visão de negócios e bom relacionamento com clientes, experiência no atendimento a chamados técnicos de segundo e terceiro nível presencial e remoto, com cursos técnicos específicos, cortesia no atendimento ao usuário e organização interna para atender os requisitos da política da empresa em que representarei. Desenvoltura, postura profissional e capacidade de expressão junto ao cliente final, disposto a trabalhar muito, apresentar resultados e auferir altos ganhos financeiros.
-Palavras-chave: Coordenador de Infraestrutura, Coordenador de Projetos TI, Analista de Infraestrutura, Analista de Suporte, Analista de Projetos TI, Cloud, Microsoft.
+🔧 Analista de Infraestrutura Sênior | Gestão de Projetos | Segurança | Liderança de Equipe | Windows Server | Backup
 
-Especializações: 
-Brasil Mais TI: Office 365.
+💼 Resumo ProfissionalAdministrador de Infraestrutura com mais de 15 anos de experiência em tecnologia. Expertise em gestão de equipes, elaboração de relatórios de status de projetos e configuração de servidores. Experiência sólida em manutenção de servidores físicos e virtuais, redes corporativas e soluções de backup. Forte capacidade de liderança e foco em resultados, com experiência em ambientes corporativos de grande porte.
 
-Udemy: Microsofit Azure.
+🛠️ Habilidades Principais
 
-Udemy: Amazon AWS para iniciantes.
+Infraestrutura: Windows Server, Active Directory, DNS, DHCP, Hyper-V, File Server
 
-Experiência
+Redes: Configuração de redes físicas e Wi-Fi, VPN, Firewall (Pfsense, WatchGuard)
 
-INTRANET Consultoria
-Analista de suporte sênior
-Analista de suporte sênior
-INTRANET Consultoria · Tempo integralINTRANET Consultoria · Tempo integral
-jul de 2024 - o momento · 11 mesesDe jul de 2024 até o momento · 11 meses
-São Paulo, Brasil · HíbridaSão Paulo, Brasil · Híbrida
-Atuando no monitoramento dos backups de vários clientes, sendo responsável por criar e restaurar os backups.
-(Veritas backup, Iperius backup, Veem Backup).
- 
-Atendimento via Zendesk e suporte à usuários (Desktop e notebook)
-Suporte a usuários de VPN. 
-Responsável por rotinas de backup, acompanhando a rotina de vários clientes, e criando relatórios diários para cada cliente.
+Backup: Veritas Backup, Iperius Backup, Veem Backup, relatórios de backup
+
+Suporte Técnico: Suporte de segundo e terceiro nível, atendimento remoto e presencial
+
+Gestão: Coordenação de equipes N1 e N2, projetos de implantação e migração
+
+💼 Experiência ProfissionalAnalista de Suporte Sênior - INTRANET Consultoria (jul 2024 - presente)
+
+Monitoramento e restauração de backups para diversos clientes
+
+Suporte a usuários via Zendesk (desktop, notebook, VPN)
+
+Analista de Sistemas Sênior - GRUPO SPLHAS SERVIÇOS E FABRICAÇÃO LTDA (abr 2024 - jun 2024)
+
+Implementação de redes para novas lojas, configuração de servidores e equipamentos
+
+Administração de rede interna, configuração de servidores Windows
+
+Coordenador de TI - Rodrigues & Monea - Sociedade de Advogados (mar 2023 - jan 2024)
+
+Implementação de escritórios, configuração de servidores e redes
+
+Gestão de infraestrutura e equipes de suporte, manutenção de backups
+
+Analista de Suporte Sênior - Universal Cinergia Dubbing (out 2022 - mar 2023)
+
+Gestão de infraestrutura, firewall, servidores e backups
+
+Analista de Suporte Pleno - PTC Group (jan 2022 - jul 2022)
+
+Migração para Office 365, gerenciamento de rede e servidores
+
+🚀 Principais Projetos
+
+Implementação de infraestrutura para novos escritórios
+
+Migração para ambientes cloud e Office 365
+
+Automação de processos de backup e gerenciamento de usuários
+
+📫 Entre em Contato
+
+LinkedIn: Thiago Mamedes
+
+E-mail: thiagomamedes@dominio.com
+
+ótimo vou testar agora
