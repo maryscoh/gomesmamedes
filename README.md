@@ -11,7 +11,6 @@ Palavras-chave: Coordenador de Infraestrutura, Coordenador de Projetos TI, Anali
 
 Especializações: 
 Brasil Mais TI: Office 365.
-
 Udemy: Microsofit Azure.
 
 Udemy: Amazon AWS para iniciantes.
