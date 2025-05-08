@@ -1,3 +1,5 @@
+![Minha foto](https://github.com/thiagomamedes/minha-foto.jpg)
+
 # 👋 Olá, eu sou Thiago Gomes Mamedes
 
 🔧 **Analista de Infraestrutura Sênior | Gestão de Projetos | Segurança | Liderança de Equipe | Windows Server | Backup**
